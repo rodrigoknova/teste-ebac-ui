@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/rodrigoknova/teste-ebac-ui#readme",
   "dependencies": {
+    "@faker-js/faker": "^6.0.0",
     "cypress": "^9.5.2"
+  },
+  "devDependencies": {
+    "faker": "^5.5.3"
   }
 }
