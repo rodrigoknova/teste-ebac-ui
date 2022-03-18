@@ -33,7 +33,7 @@ describe('Funcionalidade Endereços - Faturamento e Entrega', () => {
         cy.get('.woocommerce-message').should('contain' , 'Endereço alterado com sucesso.')
     });
 
-    it.only('Deve fazer o cadastro de entrega com sucesso', () => {
+    it('Deve fazer o cadastro de entrega com sucesso', () => {
         
         EnderecoPage.editarEnderecoEntrega(
             dadosEndereco [1].nome,
