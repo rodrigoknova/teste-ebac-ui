@@ -1,1 +1,1 @@
-# teste-ebac-ui
+Testes automatizados realizados em ambiente de testes.
