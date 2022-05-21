@@ -1,1 +1,1 @@
-Testes automatizados realizados em ambiente de testes.
+Testes automatizados utilizando "Cypress" realizados em ambiente de testes.
